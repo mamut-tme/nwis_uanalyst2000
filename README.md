@@ -1,1 +1,4 @@
 This repository will contain all data about the Northwest Instruments System Inc. uAnalyst 200 state timing analyzer. Partially a collection of data from the internet, some thoughts of my own, partialy reverse engineering of some elements.
+
+The uAnalyst 2000 is a state and timing analyzer. The hardware consists of a mainframe case with 8 slots for measurement cards. In the mainframe there are also 3 power supplies (2x15V connected in series to get +15V and -15V and +5V). The mainframe is connected to a PC via an 8-bit ISA card. Software runs under DOS. The manual states an IBM PC (TM) is required which implies an 8088 CPU. However I have made a connection from a Pentium 166 MMX without problems.
+Software runs under DOS and has very little memory requirements (256KB or 512KB). I also tried FreeDOS - no problem.
