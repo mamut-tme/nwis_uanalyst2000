@@ -1,0 +1,1 @@
+This repository will contain all data about the Northwest Instruments System Inc. uAnalyst 200 state timing analyzer. Partially a collection of data from the internet, some thoughts of my own, partialy reverse engineering of some elements.
