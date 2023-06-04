@@ -1,8 +1,8 @@
 # Introduction
 This repository will contain all data about the Northwest Instruments System Inc. uAnalyst 200 state timing analyzer. Partially a collection of data from the internet, some thoughts of my own, partialy reverse engineering of some elements.
 
-![est](adverts_articles/PC-Mag-1984-02-07_0319.jpg)
-Advertisement from PC-MAG 1994/2
+<img src="press_mentions/PC_Tech_Journal_vol01_n06_0126.jpg" height=600>
+Advertisement from PC Tech Journal vol01 n06
 
 # Hardware Details
 The hardware consists of a mainframe case with 8 slots for measurement cards. In the mainframe there are also 3 power supplies (2x15V connected in series to get +15V and -15V and +5V). The mainframe is connected to a PC via an 8-bit ISA card. 
