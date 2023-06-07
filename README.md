@@ -22,6 +22,7 @@ The hardware consists of a mainframe case in which the main part is a backplane 
 * [21-026-00 32 Channel Memory Board](mainframe_cards/21-026-00_32_channel_memory_board/README.md)
 * [21-020-00 ITA Trigger Board/](mainframe_cards/21-020-00_ITA_trigger_board/README.md)
 * [ITA Memory Board](mainframe_cards/ITA_memory_board/README.md)
+* [Mainframe Mainboard](Mainframe_mainboard/README.md)
 
 There existed also a 003 Option Time Stamp Board and a 16 Channel Memory Board, none of which I own. On the timestamp there is a Manual in the Manuals section.
 
