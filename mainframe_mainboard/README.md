@@ -12,5 +12,7 @@ there are two +5V rails: a normal rail with filtered just with a electrolytic (1
 
 The additionally filtered voltage rail is used only by the ITA cards! (and they don't use the normal 5V at all). So if the cards are not detected it is most likely a problem of this rail...
 
+The bodged wire on the bottom side seems like a factory thing, there is a trace missing on the top layer...
+
 ![DSC_0174.JPG](DSC_0174.JPG)
 ![DSC_0176.JPG](DSC_0176.JPG)
