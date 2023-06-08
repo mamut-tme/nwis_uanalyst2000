@@ -1,5 +1,7 @@
 one of the 15V power supplies:
 ![DSC_0177.JPG](DSC_0177.JPG)
+the 5V power supply with the remote sensing voltage regulator (the upper two cables in the left screw terminal seem to be for that purpuse):
+![DSC_0189.JPG](DSC_0189.JPG)
 Power Distribution Board (just a mains voltage splitter):
 ![DSC_0180.JPG](DSC_0180.JPG)
 Power Distribution Board on top of the EMC filter:
