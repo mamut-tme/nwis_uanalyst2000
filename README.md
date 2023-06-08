@@ -1,5 +1,5 @@
 # Introduction
-This repository will contain all data about the Northwest Instruments System Inc. μAnalyst 2000 state and timing analyzer. Partially a collection of data from the internet, some thoughts of my own, partialy reverse engineering of some elements.
+This repository will contain all data about the Northwest Instruments System Inc. μAnalyst 2000 state and timing analyzer. Partially a collection of data from the internet, some thoughts of my own, partialy reverse engineering of some elements. The company was later renamed to MicroCase and produced the same device (as of 8.06.2023 there is a MicroCase device on ebay)
 
 <img src="press_mentions/PC_Tech_Journal_vol01_n06_0126.jpg" height=600>\
 Advertisement from PC Tech Journal vol01 n06
