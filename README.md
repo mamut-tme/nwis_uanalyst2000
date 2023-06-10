@@ -43,4 +43,4 @@ Software runs under DOS, DOS 2.0 is required (doesn't say of MS-DOS or other). I
 The software has also printing capabilities, one can print to LPT1-LPT3 and COM1-2 but also to a file (raw printer data is saved). The printer data contains an ESC/P code, which can be easily converted these days to something modern like PDF (using e.g. [PrinterToPDF](https://github.com/RWAP/PrinterToPDF/))
 
 ![startup_screen](images/startup_screen.png)\
-This is how the startup screen looks like (screenshot from Dosbox, so no cards are being detected). Please note, that there is a \mu character being shown. If on your system there is a different character, then you have the wrong codepage (should be 437).
+This is how the startup screen looks like (screenshot from Dosbox, so no cards are being detected). Please note, that there is a μ character being shown. If on your system there is a different character, then you have the wrong codepage (should be 437).
