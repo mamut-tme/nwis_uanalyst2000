@@ -25,7 +25,8 @@ The hardware consists of a mainframe case in which the main part is a backplane 
 * [Mainframe Mainboard](mainframe_mainboard/README.md)
 * [Other components (power supplies, front panel LED board, etc.](other_components/README.md)
 
-There existed also a 003 Option Time Stamp Board and a 16 Channel Memory Board, none of which I own. On the timestamp there is a Manual in the Manuals section.
+There existed also a 003 Option Time Stamp Board and a 16 Channel Memory Board, none of which I own. On the timestamp there is a Manual in the Manuals section.\
+**Please read the information in the Power Supplies articles (other)** maybe I can spare you the smoke of burnt capacitors...
 
 # PC Requirements
 The manual states an IBM PC (TM) is required which implies an 8088 CPU. And you need a mainboard with a ISA slot :) Mainstream mainboards went up to Intel Pentium III (Socket 350) and AMD Athlon/Duron (Socket A), but there were also industrial mainboards manufactured for Pentium 4. I have made a connection from a Pentium 166 MMX without problems (which lets me think that the hardware and software is well designed, so it should also work on a P4). As for RAM the manual says 256KB or 512KB (dependant on the amount of floppy drives :) )\
