@@ -1,6 +1,6 @@
 one of the 15V power supplies:
 ![DSC_0177.JPG](DSC_0177.JPG)
-Below the fuse you can see 3 yellowish capacitors and there is also one a bit to the right. These are metalized paper, manufactured by RIFA capacitors. Their lifespan is about 30 years... please inspect them before running the system, cracks in the casing are possible to be seen with a bare eye. In any case I recommend replacing them. It is possible to by direct replacements in the same technology made by Kemet (they bought RIFA), but they are quite expensive and franky speaking I don't trust that technology. I suggest replacing them with some MKP (metalized polypropylene foil) caps, X2/Y2 rating as below:
+Below the fuse you can see 3 yellowish capacitors and there is also one a bit to the right. These are metalized paper capacitors, manufactured by RIFA . Their lifespan is about 30 years... please inspect them before running the system, cracks in the casing are possible to be seen with a bare eye. In any case I recommend replacing them. It is possible to buy direct replacements in the same technology made by Kemet (they bought RIFA), but they are quite expensive and franky speaking I don't trust that technology. I suggest replacing them with some MKP (metalized polypropylene foil) caps, X2/Y2 rating as below:
 * 100nF 250VAC X2 class (1 pcs per PSU), pin raster is originally about 21mm, but there is also a pad allowing to install a 15 mm cap
 * 2,2nF (marked 2200pF) 250VAC Y2 class (3 pcs per PSU), pin raster = 10mm
 
